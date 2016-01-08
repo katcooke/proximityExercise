@@ -1,1 +1,38 @@
-
+nav {
+  width: 25%;
+  padding: 15px;
+  margin: 0;
+  box-sizing: border-box;
+  float:left;
+}
+  #mainContent {
+  width: 45%;
+  padding: 15px;
+  margin: 0;
+  box-sizing: border-box;
+  border-left: 5px #52637B solid;
+  border-right: 5px #52637B solid;
+  float: left;
+}
+#rightSidebar {
+  width: 25%;
+  padding: 15px;
+  margin: 8px;
+  box-sizing: border-box;
+  float: left;
+}
+header {
+  background-color: #52637B;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+h1 {
+  border-bottom: 5px white solid;
+  width: 45%;
+  margin: 40px auto;
+}
+#image1 {
+  float: right;
+  padding-left: 2px;
+}
